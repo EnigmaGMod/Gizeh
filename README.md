@@ -9,7 +9,8 @@ Pour ne plus avoir d'error dans le menu veuillez prendre dans le gizeh modifié 
 
 ---
 
----
+![Leaked](https://raw.githubusercontent.com/EnigmaGMod/Gizeh/master/lel.png)
 
 ---
+
 Le gizeh.lua est la source, /!\ ne pas lancer dans external /!\

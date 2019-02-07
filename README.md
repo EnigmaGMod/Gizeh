@@ -1,6 +1,9 @@
 # Gizeh
 Pour lancer le Gizeh il vous faut gizeh_leak.dll (dans releases) et Extreme Injector
---> https://github.com/EnigmaGMod/Gizeh/releases
+
+https://github.com/EnigmaGMod/Gizeh/releases
+
+https://discord.gg/9rS2jhf
 
 Vous avez aussi le "gmod modifié" (c'est juste du joli)
 Transférer le dossier "garrysmod" ici: "C:\Program Files (x86)\Steam\steamapps\common\GarrysMod"
